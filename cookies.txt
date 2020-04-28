@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+rezx-web.glitch.me	TRUE	/	FALSE	1999999999	connect.sid	s%3Ae8bOYw_qbcS9BJxQyd0CeJR_a2W3RP6S.omwNKh1F9Qhe84V8byANo1x0NYEfinPTrUuiEqk5Pcs
+.discordapp.com	TRUE	/	FALSE	1999999999	__cfduid	d846080485b923399791646b15e4e60601588113230
+cdn.discordapp.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.top4top.io	TRUE	/	FALSE	1999999999	klj_40d147_downloads	iy1gj
+
